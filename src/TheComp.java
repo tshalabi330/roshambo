@@ -15,8 +15,6 @@ public class TheComp extends Player{
 
 		int index = random.nextInt(roshambo.length);
 
-		System.out.println(roshambo[index]);
-
 		return roshambo[index];
 	}
 
